@@ -8,3 +8,6 @@
 * Dosa batter
 * Karam added
 * lite oil
+## Paneer Dosa
+* Dosa batter
+* Paneer gratted
